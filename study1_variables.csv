@@ -1,0 +1,198 @@
+﻿variable,explanation,verbatim text for opinion questions,target answer for opininion questions
+StartDate,when participant began study,,
+EndDate,"when participant ended study. May be nonsensical if participant didn't hit ""submit""",,
+Status,internal Qualtrics variable,,
+,,,
+Progress,internal Qualtrics variable,,
+Duration (in seconds),internal Qualtrics variable,,
+Finished,internal Qualtrics variable,,
+RecordedDate,internal Qualtrics variable,,
+ResponseId,internal Qualtrics variable,,
+RecipientLastName,internal Qualtrics variable,,
+RecipientFirstName,internal Qualtrics variable,,
+RecipientEmail,internal Qualtrics variable,,
+ExternalReference,internal Qualtrics variable,,
+,,,
+,,,
+DistributionChannel,internal Qualtrics variable,,
+UserLanguage,internal Qualtrics variable,,
+consent,response to consent form,,
+id,"prolific ID, necessary for paying participants",,
+birth_year,year in which participant was born,,
+sc_instructions,displays instructions,,
+spanking_1986,estimated responses to given item in given year,"Do you strongly agree, agree, disagree, or strongly disagree that it is sometimes necessary to discipline a child with a good, hard spanking? ",agree
+spanking_2018,estimated responses to given item in given year,"Do you strongly agree, agree, disagree, or strongly disagree that it is sometimes necessary to discipline a child with a good, hard spanking? ",agree
+spanking_self,participant's response to given item,,
+woman_home_1977,estimated responses to given item in given year,"As I read each statement, please tell me whether you strongly agree, agree, disagree, or strongly disagree with it. For example, here is the statement: It is much better for everyone involved if the man is the achiever outside the home and the woman takes care of the family",agree
+woman_home_2018,estimated responses to given item in given year,"As I read each statement, please tell me whether you strongly agree, agree, disagree, or strongly disagree with it. For example, here is the statement: It is much better for everyone involved if the man is the achiever outside the home and the woman takes care of the family ",agree
+woman_home_self,participant's response to given item,,
+weed_1973,estimated responses to given item in given year,Do you think the use of marijuana should be made legal or not? ,legal
+weed_2018,estimated responses to given item in given year,Do you think the use of marijuana should be made legal or not? ,legal
+weed_self,participant's response to given item,,
+affairs_1973,estimated responses to given item in given year,"What is your opinion about a married person having sexual relations with someone other than the marriage partner--is it always wrong, almost always wrong, wrong only sometimes, or not wrong at all?",not wrong at all
+affairs_2018,estimated responses to given item in given year,"What is your opinion about a married person having sexual relations with someone other than the marriage partner--is it always wrong, almost always wrong, wrong only sometimes, or not wrong at all?",not wrong at all
+affairs_self,participant's response to given item,,
+harassment_1986,estimated responses to given item in given year,"There has been a lot of discussion lately about sexual harassment of women in the workplace. Do you think this is a big problem, somewhat of a problem, or not a problem at all?",not a problem at all
+harassment_2017,estimated responses to given item in given year,"There has been a lot of discussion lately about sexual harassment of women in the workplace. Do you think this is a big problem, somewhat of a problem, or not a problem at all?",not a problem at all
+harassment_self,participant's response to given item,,
+woman_prez_1972,estimated responses to given item in given year,"If your party nominated a woman for President, would you vote for her if she were qualified for the job? ",yes
+woman_prez_2010,estimated responses to given item in given year,"If your party nominated a woman for President, would you vote for her if she were qualified for the job? ",yes
+woman_prez_self,participant's response to given item,,
+religion_1965,estimated responses to given item in given year,"How important would you say religion is in your own life--very important, fairly important or not very important? ",very important
+religion_2018,estimated responses to given item in given year,"How important would you say religion is in your own life--very important, fairly important or not very important? ",very important
+religion_self,participant's response to given item,,
+politics_1990,estimated responses to given item in given year,How interested would you say you personally are in politics?,very interested
+politics_2016,estimated responses to given item in given year,How interested would you say you personally are in politics?,very interested
+politics_self,participant's response to given item,,
+abortion_1977,estimated responses to given item in given year,Please tell me whether or not you think it should be possible for a pregnant woman to obtain a legal abortion if the woman wants it for any reason?,yes
+abortion_2018,estimated responses to given item in given year,Please tell me whether or not you think it should be possible for a pregnant woman to obtain a legal abortion if the woman wants it for any reason?,yes
+abortion_self,participant's response to given item,,
+premarital_sex_1972,estimated responses to given item in given year,"There's been a lot of discussion about the way morals and attitudes about sex are changing in this country. If a man and woman have sex relations before marriage, do you think it is always wrong, almost always wrong, wrong only sometimes, or not wrong at all? ",always wrong or almost always wrong
+premarital_sex_2018,estimated responses to given item in given year,"There's been a lot of discussion about the way morals and attitudes about sex are changing in this country. If a man and woman have sex relations before marriage, do you think it is always wrong, almost always wrong, wrong only sometimes, or not wrong at all? ",always wrong or almost always wrong
+premarital_sex_self,participant's response to given item,,
+black_prez_1978,estimated responses to given item in given year,"If your party nominated a (Negro/Black/African-American) for President, would you vote for him if he were qualified for the job?",yes
+black_prez_2010,estimated responses to given item in given year,"If your party nominated a (Negro/Black/African-American) for President, would you vote for him if he were qualified for the job?",yes
+black_prez_self,participant's response to given item,,
+gay_marriage_1988,estimated responses to given item in given year,Do you agree or disagree? Homosexual couples should have the right to marry one another. ,agree
+gay_marriage_2018,estimated responses to given item in given year,Do you agree or disagree? Homosexual couples should have the right to marry one another. ,agree
+gay_marriage_self,participant's response to given item,,
+gun_1972,estimated responses to given item in given year,Would you favor or oppose a law which would require a person to obtain a police permit before he or she could buy a gun? ,favor
+gun_2018,estimated responses to given item in given year,Would you favor or oppose a law which would require a person to obtain a police permit before he or she could buy a gun? ,favor
+gun_self,participant's response to given item,,
+handgun_1987,estimated responses to given item in given year,"Do you think there should or should not be a law that would ban the possession of handguns, except by the police and other authorized persons? ",should be
+handgun_2019,estimated responses to given item in given year,"Do you think there should or should not be a law that would ban the possession of handguns, except by the police and other authorized persons? ",should be
+handgun_self,participant's response to given item,,
+assault_1996,estimated responses to given item in given year,"Are you for or against a law which would make it illegal to manufacture, sell or possess semi- automatic guns known as assault rifles?",for
+assault_2018,estimated responses to given item in given year,"Are you for or against a law which would make it illegal to manufacture, sell or possess semi- automatic guns known as assault rifles?",for
+assault_self,participant's response to given item,,
+death_1972,estimated responses to given item in given year,Do you favor or oppose the death penalty for persons convicted of murder?,favor
+death_2018,estimated responses to given item in given year,Do you favor or oppose the death penalty for persons convicted of murder?,favor
+death_self,participant's response to given item,,
+smoking_1990,estimated responses to given item in given year,"Should smoking in this country be made totally illegal, or not?",yes
+smoking_2018,estimated responses to given item in given year,"Should smoking in this country be made totally illegal, or not?",yes
+smoking_self,participant's response to given item,,
+immigration_1965,estimated responses to given item in given year,"Thinking now about immigrants -- that is, people who come from other countries to live here in the United States, in your view, should immigration be kept at its present level, increased or decreased? ",decrease
+immigration_2019,estimated responses to given item in given year,"Thinking now about immigrants -- that is, people who come from other countries to live here in the United States, in your view, should immigration be kept at its present level, increased or decreased? ",decrease
+immigration_self,participant's response to given item,,
+i_strength_1994,estimated responses to given item in given year,"Which comes closer to your view — even if neither is exactly right:
+Immigrants today strengthen our country because of their hard work and talents.
+Immigrants today are a burden on our country because they take our jobs, housing and health care",strengthen
+i_strength_2019,estimated responses to given item in given year,"Which comes closer to your view — even if neither is exactly right:
+Immigrants today strengthen our country because of their hard work and talents.
+Immigrants today are a burden on our country because they take our jobs, housing and health care",strengthen
+i_strength_self,participant's response to given item,,
+climate_worry_1990,estimated responses to given item in given year,"(I'm going to read you a list of environmental problems. As I read each one, please tell me if you personally worry about this problem a great deal, a fair amount, only a little, or not at all?)... The 'greenhouse effect,'/global warming/climate change ",worried great deal or fair amount
+climate_worry_2019,estimated responses to given item in given year,"(I'm going to read you a list of environmental problems. As I read each one, please tell me if you personally worry about this problem a great deal, a fair amount, only a little, or not at all?)... The 'greenhouse effect,'/global warming/climate change ",worried great deal or fair amount
+climate_worry_self,participant's response to given item,,
+climate_belief_2001,estimated responses to given item in given year,"From what you have heard or read, do you believe increases in the earth's temperature over the last century are due more to the effects of pollution from human activities or natural changes in the environment that are not due to human activities? ",believe caused by human activities
+climate_belief_2019,estimated responses to given item in given year,"From what you have heard or read, do you believe increases in the earth's temperature over the last century are due more to the effects of pollution from human activities or natural changes in the environment that are not due to human activities? ",believe caused by human activities
+climate_belief_self,participant's response to given item,,
+women_draft_1979,estimated responses to given item in given year,"If a draft were to become necessary, should young women be required to participate as well as young men, or not?",should
+women_draft_2016,estimated responses to given item in given year,"If a draft were to become necessary, should young women be required to participate as well as young men, or not?",should
+women_draft_self,participant's response to given item,,
+bible_1976,estimated responses to given item in given year,"Which of the following statements comes closest to describing your views about the Bible -- the Bible is the actual word of God and is to be taken literally, word for word, the Bible is the inspired word of God but not everything in it should be taken literally, or the Bible is an ancient book of fables, legends, history, and moral pr ",book of fables
+bible_2017,estimated responses to given item in given year,"Which of the following statements comes closest to describing your views about the Bible -- the Bible is the actual word of God and is to be taken literally, word for word, the Bible is the inspired word of God but not everything in it should be taken literally, or the Bible is an ancient book of fables, legends, history, and moral pr ",book of fables
+bible_self,participant's response to given item,,
+god_1965,estimated responses to given item in given year,Do you believe in God? ,yes
+god_2017,estimated responses to given item in given year,Do you believe in God? ,yes
+god_self,participant's response to given item,,
+black_intel_1990,estimated responses to given item in given year,,
+black_intel_2018,estimated responses to given item in given year,,
+black_intel_self,participant's response to given item,,
+black_work_1990,estimated responses to given item in given year,hardworking: Black people. Lower = more hardworking,
+black_work_2018,estimated responses to given item in given year,hardworking: Black people. Lower = more hardworking,
+black_work_self,participant's response to given item,,
+hispanic_work_1990,estimated responses to given item in given year,hardworking: Hispanic people. Lower = more hardworking,
+hispanic_work_2018,estimated responses to given item in given year,hardworking: Hispanic people. Lower = more hardworking,
+hispanic_work_self,participant's response to given item,,
+hispanic_intel_1990,estimated responses to given item in given year,intelligent: Hispanic people. Higher = more intelligent,
+hispanic_intel_2018,estimated responses to given item in given year,intelligent: Hispanic people. Higher = more intelligent,
+hispanic_intel_self,participant's response to given item,,
+asian_work_1992,estimated responses to given item in given year,hardworking: Asian people. Lower = more hardworking,
+asian_work_2016,estimated responses to given item in given year,hardworking: Asian people. Lower = more hardworking,
+asian_work_self,participant's response to given item,,
+black_marry_1990,estimated responses to given item in given year,"What about having a close relative marry a black person? Would you be very in favor of it happening, somewhat In favor, neither in favor nor opposed to it happening, somewhat opposed, or very opposed to it happening? ",oppose
+black_marry_2018,estimated responses to given item in given year,"What about having a close relative marry a black person? Would you be very in favor of it happening, somewhat In favor, neither in favor nor opposed to it happening, somewhat opposed, or very opposed to it happening? ",oppose
+black_marry_self,participant's response to given item,,
+hispanic_marry_1990,estimated responses to given item in given year,"What about having a close relative marry a Hispanic American person? Would you be very in favor of it happening, somewhat In favor, neither in favor nor opposed to it happening, somewhat opposed, or very opposed to it happening? ",oppose
+hispanic_marry_2018,estimated responses to given item in given year,"What about having a close relative marry a Hispanic American person? Would you be very in favor of it happening, somewhat In favor, neither in favor nor opposed to it happening, somewhat opposed, or very opposed to it happening? ",oppose
+hispanic_marry_self,participant's response to given item,,
+asian_marry_1990,estimated responses to given item in given year,"What about having a close relative marry an Asian American person? Would you be very in favor of it happening, somewhat In favor, neither in favor nor opposed to it happening, somewhat opposed, or very opposed to it happening? ",oppose
+asian_marry_2018,estimated responses to given item in given year,"What about having a close relative marry an Asian American person? Would you be very in favor of it happening, somewhat In favor, neither in favor nor opposed to it happening, somewhat opposed, or very opposed to it happening? ",oppose
+asian_marry_self,participant's response to given item,,
+women_politics_1974,estimated responses to given item in given year,,
+women_politics_2018,estimated responses to given item in given year,Tell me if you agree or disagree with this statement: Most men are better suited emotionally for politics than are most women. ,agree
+women_politics_self,participant's response to given item,Tell me if you agree or disagree with this statement: Most men are better suited emotionally for politics than are most women. ,agree
+abortion_health_1972,estimated responses to given item in given year,Please tell me whether or not you think it should be possible for a pregnant woman to obtain a legal abortion if the woman’s own health is seriously endangered by the pregnancy? ,yes
+abortion_health_2018,estimated responses to given item in given year,Please tell me whether or not you think it should be possible for a pregnant woman to obtain a legal abortion if the woman’s own health is seriously endangered by the pregnancy? ,yes
+abortion_health_self,participant's response to given item,,
+women_work_1994,estimated responses to given item in given year,Do you agree or disagree ... both the husband and the wife should contribute to the household income. ,agree
+women_work_2012,estimated responses to given item in given year,Do you agree or disagree ... both the husband and the wife should contribute to the household income. ,agree
+women_work_self,participant's response to given item,,
+women_preschool_1988,estimated responses to given item in given year,"Do you think that women should work outside the home full-time, part-time or not at all under these circumstances: When there is a child under school age. ",stay home
+women_preschool_2012,estimated responses to given item in given year,"Do you think that women should work outside the home full-time, part-time or not at all under these circumstances: When there is a child under school age. ",stay home
+women_preschool,participant's response to given item,,
+gay_adopt_1992,estimated responses to given item in given year,Do you think gay or lesbian couples should be legally permitted to adopt children?,yes
+gay_adopt_2016,estimated responses to given item in given year,Do you think gay or lesbian couples should be legally permitted to adopt children?,yes
+gay_adopt,participant's response to given item,,
+gay_military_1992,estimated responses to given item in given year,Do you think homosexuals should be allowed to serve in the United States Armed Forces or don't you think so?,yes
+gay_military_2012,estimated responses to given item in given year,Do you think homosexuals should be allowed to serve in the United States Armed Forces or don't you think so?,yes
+gay_military_self,participant's response to given item,,
+communist_1972,estimated responses to given item in given year,"Now, I should like to ask you some questions about a man who admits he is a Communist. Suppose this admitted Communist wanted to make a speech in your community. Should he be allowed to speak, or not?",allowed
+communist_2018,estimated responses to given item in given year,"Now, I should like to ask you some questions about a man who admits he is a Communist. Suppose this admitted Communist wanted to make a speech in your community. Should he be allowed to speak, or not?",allowed
+communist_self,participant's response to given item,,
+anti_religion_1972,estimated responses to given item in given year,"There are always some people whose ideas are considered bad or dangerous by other people. For instance, somebody who is against all churches and religion. If such a person wanted to make a speech in your (city/town/community) against churches and religion, should he be allowed to speak, or not?",allowed
+anti_religion_2018,estimated responses to given item in given year,"There are always some people whose ideas are considered bad or dangerous by other people. For instance, somebody who is against all churches and religion. If such a person wanted to make a speech in your (city/town/community) against churches and religion, should he be allowed to speak, or not?",allowed
+anti_religion_self,participant's response to given item,,
+homo_speak_1973,estimated responses to given item in given year,"And what about a man who admits that he is a homosexual? Suppose this admitted homosexual wanted to make a speech in your community. Should he be allowed to speak, or not?",allowed
+homo_speak_2018,estimated responses to given item in given year,"And what about a man who admits that he is a homosexual? Suppose this admitted homosexual wanted to make a speech in your community. Should he be allowed to speak, or not?",allowed
+homo_speak_self,participant's response to given item,,
+militarist_1976,estimated responses to given item in given year,"Consider a person who advocates doing away with elections and letting the military run the country. If such a person wanted to make a speech in your community, should he be allowed to speak, or not?",allowed
+militarist_2018,estimated responses to given item in given year,"Consider a person who advocates doing away with elections and letting the military run the country. If such a person wanted to make a speech in your community, should he be allowed to speak, or not?",allowed
+militarist_self,participant's response to given item,,
+racist_1976,estimated responses to given item in given year,"Or consider a person who believes that Blacks are genetically inferior. If such a person wanted to make a speech in your community claiming that Blacks are inferior, should he be allowed to speak, or not?",allowed
+racist_2018,estimated responses to given item in given year,"Or consider a person who believes that Blacks are genetically inferior. If such a person wanted to make a speech in your community claiming that Blacks are inferior, should he be allowed to speak, or not?",allowed
+racist_self,participant's response to given item,,
+therm_explain,instructions for feelings thermometer,,
+black_1964,estimated responses to given item in given year,"average response. 0 = cold, 100 = warm",
+black_2016,estimated responses to given item in given year,"average response. 0 = cold, 100 = warm",
+black_self,participant's response to given item,,
+hispanic_1976,estimated responses to given item in given year,"average response. 0 = cold, 100 = warm",
+hispanic_2016,estimated responses to given item in given year,"average response. 0 = cold, 100 = warm",
+hispanic_self,participant's response to given item,,
+illegal_1988,estimated responses to given item in given year,"average response. 0 = cold, 100 = warm",
+illegal_2016,estimated responses to given item in given year,"average response. 0 = cold, 100 = warm",
+illegal_self,participant's response to given item,,
+gay_1984,estimated responses to given item in given year,"average response. 0 = cold, 100 = warm",
+gay_2016,estimated responses to given item in given year,"average response. 0 = cold, 100 = warm",
+gay_self,participant's response to given item,,
+asian_1992,estimated responses to given item in given year,"average response. 0 = cold, 100 = warm",
+asian_2016,estimated responses to given item in given year,"average response. 0 = cold, 100 = warm",
+asian_self,participant's response to given item,,
+poor_1972,estimated responses to given item in given year,"average response. 0 = cold, 100 = warm",
+poor_2016,estimated responses to given item in given year,"average response. 0 = cold, 100 = warm",
+poor_self,participant's response to given item,,
+welfare_1976,estimated responses to given item in given year,"average response. 0 = cold, 100 = warm",
+welfare_2012,estimated responses to given item in given year,"average response. 0 = cold, 100 = warm",
+welfare_self,participant's response to given item,,
+feminists_1988,estimated responses to given item in given year,"average response. 0 = cold, 100 = warm",
+feminists_2016,estimated responses to given item in given year,"average response. 0 = cold, 100 = warm",
+feminists_self,participant's response to given item,,
+attention_1,participant passes by leaving blank,,
+attention_2,participant passes by leaving blank,,
+social_change,rate at which participant believes society changes,,
+age,age,,
+gender,gender,,
+race,race,,
+language,first langugage,,
+language_2_TEXT,"""other"" option for language",,
+eng_comp,self-rated English comprehension,,
+check,"another attention check; participant shouold select ""other""",,
+check_4_TEXT,"participant should write ""tree""",,
+education,education level,,
+political_ideology,liberal/conservative. Higher = more conservative,,
+political_party,democrat/republican. Higher = more republican,,
+lookup,did you look up any of the answers?,,
+comments,open-ended comments,,
+instructions_2_TEXT,not used,,
+FL_,internal Qualtrics variable recording viewing order,,
